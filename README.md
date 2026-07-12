@@ -2,11 +2,6 @@
 00331-10000-00001-AA029
  {Shamil}
 
--------
-Тестовый период 
--------
-(MIRABELKA)
-
 
 -------
 Подписки
@@ -15,4 +10,4 @@
 (J444cKK) 00331-10000-00001-AA473 (30)
   (90 days)
  
--(  ) (Оплатил C   До   ) 
+KEY=WINR-ABCD-EFGH-JKLM-NPQR|STATUS=ACTIVE|EXPIRES=2026-12-31 23:59|NOTE=JACK
